@@ -2,3 +2,4 @@ This repo contains a selection of problems and the solutions I’ve recently wor
 
 1. Generalized Monty Hall Problem
 2. Gold News Sentiment Classifier
+3. Ensemble Forecasting (Rossmann Store Sales Kaggle) 
