@@ -4,4 +4,5 @@ This repo contains a selection of problems and the solutions I’ve recently wor
 2. Commodity News Sentiment Classifier
 3. Ensemble Forecasting (Rossmann Store Sales Kaggle)
 4. Modelling Persistent Intervention Effects on Event Rates - Frequentist & Bayesian Poisson Regression
+
    4.a. Introducing Decaying Effects - Profile-likelihood MLE with Boostrap Standard Errors 
