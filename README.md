@@ -4,4 +4,5 @@ This repo contains a selection of problems and the solutions I’ve recently wor
 2. Commodity-News Sentiment Classifier
 3. Ensemble Forecasting - Kaggle: Rossmann Store Sales
 4. Subscription-Based Revenue Projection from Segmented Forecasts of Gross Adds and Churn
-
+5. Modelling Persistent Intervention Effects on Event Rates (Frequentist & Bayesian Poisson Regression)
+   5.a. Introducing Decaying Effects (Profile-likelihood MLE and Boostrap Standard Errors)
